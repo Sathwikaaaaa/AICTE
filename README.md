@@ -1,1 +1,2 @@
-# AICTE
+# AICTE Edunet in collaboration with Microsoft Intership/Project Work
+Communication is one of the most important parts of our daily lives.Communication barriers persist for individuals who are deaf or hard of hearing due to the limited understanding of sign language among the general public. This creates challenges in everyday settings such as schools, hospitals, and public services. Leveraging computer vision and deep learning, the SignLanguageDetection project aims to develop a system that can accurately recognize sign language gestures, thereby facilitating more inclusive and accessible communication between signers and non-signers.
